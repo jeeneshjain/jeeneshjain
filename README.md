@@ -1,5 +1,3 @@
-Here's a suggestion for your profile:
-
 - 👋 Hi, I’m @jeeneshjain, a passionate Data Analyst and Market Research enthusiast.
 - 👀 I’m interested in leveraging data to uncover insights, drive strategic decisions, and improve customer experiences.
 - 🌱 I’m currently learning advanced statistical tools and methodologies, and refining my skills in R and Python for data analysis.
